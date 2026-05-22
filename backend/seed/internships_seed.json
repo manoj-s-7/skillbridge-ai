@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Backend Development Intern",
+    "company": "Razorpay",
+    "location": "Bangalore, India",
+    "domain": "Backend",
+    "skills_required": ["Python", "REST APIs", "SQL", "Git"],
+    "duration": "6 months",
+    "stipend": "₹20,000-30,000/month",
+    "description": "Work on real payment infrastructure at Razorpay. Build backend APIs, fix production bugs, and learn from senior engineers in a fast-paced fintech environment.",
+    "apply_url": "https://razorpay.com/jobs"
+  },
+  {
+    "title": "Frontend Development Intern",
+    "company": "Swiggy",
+    "location": "Bangalore, India",
+    "domain": "Frontend",
+    "skills_required": ["React", "JavaScript", "HTML", "CSS", "Git"],
+    "duration": "3-6 months",
+    "stipend": "₹15,000-25,000/month",
+    "description": "Build and improve user-facing features on Swiggy's web platform. Work on React components, performance optimization, and A/B testing experiments.",
+    "apply_url": "https://careers.swiggy.com"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Flipkart",
+    "location": "Bangalore, India",
+    "domain": "Data Science",
+    "skills_required": ["Python", "Machine Learning", "SQL", "Pandas", "NumPy"],
+    "duration": "6 months",
+    "stipend": "₹25,000-40,000/month",
+    "description": "Apply ML to real e-commerce problems at Flipkart. Work on recommendation systems, demand forecasting, or customer segmentation projects.",
+    "apply_url": "https://www.flipkartcareers.com"
+  },
+  {
+    "title": "Cloud Infrastructure Intern",
+    "company": "Freshworks",
+    "location": "Chennai, India",
+    "domain": "Cloud",
+    "skills_required": ["AWS", "Linux", "Python", "Docker", "Terraform"],
+    "duration": "3-6 months",
+    "stipend": "₹18,000-28,000/month",
+    "description": "Help manage and improve Freshworks' cloud infrastructure on AWS. Automate provisioning, monitor services, and improve deployment pipelines.",
+    "apply_url": "https://careers.freshworks.com"
+  },
+  {
+    "title": "Full Stack Intern",
+    "company": "Zoho Corporation",
+    "location": "Chennai, India",
+    "domain": "Full Stack",
+    "skills_required": ["JavaScript", "React", "Node.js", "MySQL", "HTML", "CSS"],
+    "duration": "6 months",
+    "stipend": "₹12,000-20,000/month",
+    "description": "Build features for Zoho's suite of SaaS products. You'll work end-to-end from UI to API to database, mentored by experienced Zoho engineers.",
+    "apply_url": "https://careers.zohocorp.com"
+  },
+  {
+    "title": "ML Engineering Intern",
+    "company": "Google India",
+    "location": "Bangalore, India",
+    "domain": "AI/ML",
+    "skills_required": ["Python", "TensorFlow", "Machine Learning", "Statistics", "NumPy"],
+    "duration": "3 months",
+    "stipend": "₹80,000-100,000/month",
+    "description": "Work on cutting-edge ML problems at Google India. Build models that impact millions of users across Google's products.",
+    "apply_url": "https://careers.google.com"
+  },
+  {
+    "title": "Android Development Intern",
+    "company": "PhonePe",
+    "location": "Bangalore, India",
+    "domain": "Mobile",
+    "skills_required": ["Kotlin", "Android", "REST APIs", "MVVM", "Coroutines"],
+    "duration": "4-6 months",
+    "stipend": "₹30,000-50,000/month",
+    "description": "Build features for the PhonePe Android app with 400M+ users. Work on performance, UX improvements, and new payment features.",
+    "apply_url": "https://careers.phonepe.com"
+  },
+  {
+    "title": "DevOps Intern",
+    "company": "Meesho",
+    "location": "Bangalore, India",
+    "domain": "DevOps",
+    "skills_required": ["Docker", "Kubernetes", "CI/CD", "Linux", "Python", "Jenkins"],
+    "duration": "6 months",
+    "stipend": "₹20,000-35,000/month",
+    "description": "Help build and maintain Meesho's CI/CD pipelines and cloud infrastructure. Learn real-world DevOps at one of India's fastest growing startups.",
+    "apply_url": "https://careers.meesho.com"
+  },
+  {
+    "title": "Cybersecurity Intern",
+    "company": "HCL Technologies",
+    "location": "Noida, India",
+    "domain": "Cybersecurity",
+    "skills_required": ["Network Security", "Linux", "Python", "Wireshark"],
+    "duration": "3-6 months",
+    "stipend": "₹10,000-15,000/month",
+    "description": "Learn enterprise cybersecurity at HCL. Assist in vulnerability assessments, security monitoring, and incident response for global clients.",
+    "apply_url": "https://www.hcltech.com/careers"
+  },
+  {
+    "title": "Product & Analytics Intern",
+    "company": "CRED",
+    "location": "Bangalore, India",
+    "domain": "Data Science",
+    "skills_required": ["SQL", "Excel", "Python", "Analytics", "Communication"],
+    "duration": "3-6 months",
+    "stipend": "₹25,000-40,000/month",
+    "description": "Work with CRED's product team to drive data-driven decisions. Analyze user behavior, build dashboards, and run A/B test analysis.",
+    "apply_url": "https://careers.cred.club"
+  },
+  {
+    "title": "Backend Engineering Intern",
+    "company": "Ola",
+    "location": "Bangalore, India",
+    "domain": "Backend",
+    "skills_required": ["Python", "Go", "MySQL", "Redis", "REST APIs"],
+    "duration": "6 months",
+    "stipend": "₹20,000-35,000/month",
+    "description": "Build microservices for Ola's mobility and EV platforms. Own a real service end-to-end with mentorship from senior SDE.",
+    "apply_url": "https://careers.olacabs.com"
+  },
+  {
+    "title": "UI/UX Design Intern",
+    "company": "Myntra",
+    "location": "Bangalore, India",
+    "domain": "Design",
+    "skills_required": ["Figma", "User Research", "Prototyping", "Design Systems"],
+    "duration": "3-6 months",
+    "stipend": "₹15,000-25,000/month",
+    "description": "Design beautiful shopping experiences at Myntra. Work on user research, wireframing, prototyping, and design handoff for the app and web.",
+    "apply_url": "https://careers.myntra.com"
+  },
+  {
+    "title": "Software Engineering Intern",
+    "company": "Microsoft India",
+    "location": "Hyderabad, India",
+    "domain": "Full Stack",
+    "skills_required": ["C#", "Azure", "JavaScript", "SQL", "Git"],
+    "duration": "2 months (summer)",
+    "stipend": "₹60,000-80,000/month",
+    "description": "Microsoft EXPLORE / SWE intern program. Work on real product features with full-time SDE mentors on Azure, Teams, or Xbox teams.",
+    "apply_url": "https://careers.microsoft.com"
+  },
+  {
+    "title": "Data Engineering Intern",
+    "company": "Amazon India",
+    "location": "Bangalore, India",
+    "domain": "Data Engineering",
+    "skills_required": ["Python", "SQL", "Spark", "AWS", "ETL"],
+    "duration": "6 months",
+    "stipend": "₹50,000-70,000/month",
+    "description": "Build data pipelines at Amazon India. Work on large-scale data processing, ETL workflows, and analytics infrastructure.",
+    "apply_url": "https://amazon.jobs"
+  },
+  {
+    "title": "React Developer Intern",
+    "company": "Zepto",
+    "location": "Mumbai, India",
+    "domain": "Frontend",
+    "skills_required": ["React", "TypeScript", "Next.js", "CSS", "REST APIs"],
+    "duration": "3-6 months",
+    "stipend": "₹20,000-30,000/month",
+    "description": "Build the Zepto web experience for rapid grocery delivery. Work on performance, PWA features, and A/B testing at Zepto's fast-moving startup.",
+    "apply_url": "https://careers.zepto.com"
+  }
+]
