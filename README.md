@@ -163,4 +163,4 @@ curl -X POST http://localhost:8000/api/v1/auth/register \
 - **Backend won't start:** Ensure you have Python 3.11+ (`python3 --version`). If issues persist, delete the `backend/venv` folder and run the start script again.
 - **Frontend 404 on API calls:** Ensure the backend is running on port `8000` and `frontend/.env.local` points to `http://localhost:8000/api/v1`.
 - **AI features not working:** Verify your OpenRouter or Groq API keys and remaining credits.
-- **Rename the env.example to .env 
+- **Rename the env.example to .env.**
